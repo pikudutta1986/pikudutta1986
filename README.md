@@ -32,11 +32,11 @@ Clean code. Scalable systems. Real-world products.
 
 - File processing & conversion tools
 - Background workers for CPU-intensive tasks
-- SaaS platform scaling with docker containerization
+- SaaS platform scaling with Docker containerization
 
 
 
 📫 Let’s connect:
 - GitHub: github.com/pikudutta1986
-- Website: https://www.filetool.in/portfolio
+- Website: https://www.filetool.in
 
