@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ###
 👋 Hi, I'm Anindya Dutta
 
@@ -39,4 +35,5 @@ Clean code. Scalable systems. Real-world products.
 📫 Let’s connect:
 - GitHub: github.com/pikudutta1986
 - Website: https://www.filetool.in
+- Portfolio / About me: https://www.filetool.in/portfolio
 
