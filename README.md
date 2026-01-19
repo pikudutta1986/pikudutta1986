@@ -3,55 +3,40 @@
 </div>
 
 ###
+👋 Hi, I'm Anindya Dutta
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I’m a seasoned Full-Stack Developer with 12+ years of experience building scalable, high-performance web applications and developer-focused products.
 
-###
+🚀 What I do:
+- Design and build end-to-end web platforms (Frontend + Backend + Infra)
+- Create SaaS tools for file processing, automation, and productivity
+- Architect systems that scale (queues, workers, cloud, background jobs)
+- Turn ideas into real, revenue-generating products
 
-<!-- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pikudutta1986"  />
-</div> -->
+🧠 Tech Stack:
+- Frontend: Angular, React, JavaScript, TypeScript
+- Backend: Node.js, NestJS, PHP, Python
+- Databases: MongoDB, SQL, Redis
+- Cloud & DevOps: AWS, GCP, Docker, CI/CD, VPS
+- Other: WordPress, APIs, Web Performance, SEO-friendly systems
 
-###
+🤖 Current Focus:
+- Building AI-powered tools and learning model fundamentals
+- System design & distributed architectures
+- Automation, background processing, and large-scale data handling
 
-<h1 align="center">hey there 👋</h1>
+📌 Philosophy:
+Clean code. Scalable systems. Real-world products.
 
-###
+🌐 Projects:
 
-<h3 align="left">👩‍💻  About Me</h3>
+- File processing & conversion tools
+- Background workers for CPU-intensive tasks
+- SaaS platform scaling with docker containerization
 
-###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-###
+📫 Let’s connect:
+- GitHub: github.com/pikudutta1986
+- Website: https://www.filetool.in/portfolio
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
