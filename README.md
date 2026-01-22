@@ -35,5 +35,5 @@ Clean code. Scalable systems. Real-world products.
 📫 Let’s connect:
 - GitHub: github.com/pikudutta1986
 - Website: https://www.filetool.in
-- Portfolio / About me: https://www.filetool.in/portfolio
+- My past projects: https://www.filetool.in/portfolio
 
